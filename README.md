@@ -71,6 +71,7 @@ or use **Live Server** in VS Code.
 
 ---
 
+
 ## 🎯 Purpose
 
 This project was created to practice **responsive design**, **HTML & CSS structuring**, and **GitHub usage**.
