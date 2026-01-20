@@ -43,13 +43,13 @@ WEB PROGRAMMING/
 │
 │── images/
 │   ├── bg.jpg.jpg
-│   └── photo.png
+│   ├── photo.png
 │   └── profile.jpg.jpeg
-│
+|── image.png
 │── index.html
 │── Janak-Kandel-Resume.pdf
 │── README.md
-```
+
 
 ---
 
