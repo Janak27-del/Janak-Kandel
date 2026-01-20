@@ -9,7 +9,16 @@ A **responsive portfolio website** built by using **HTML , CSS and JavaScript**.
 ![Portfolio Screenshot](image.png)
 
 ---
+### ✨ Key Features
 
+- **🎨 Stylish Design**
+- **📱 Fully Responsive**
+- **⚡ Fast Performance**
+- **🛠️ AI-Integrated Workflow**
+- **📫 Interactive Contact**
+- **📄 Resume Download**
+
+---
 ## 🛠 Technologies Used
 
 - HTML5
