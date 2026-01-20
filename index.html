@@ -221,7 +221,7 @@
       <h2 class="section__subtitle">Contact</h2>
 
       <form
-        action=""
+        action="https://formspree.io/f/mnnpappe"
         id="contactForm"
         class="contact__form"
         onsubmit="submitForm(event)"
@@ -232,6 +232,15 @@
           id="name"
           name="name"
           class="contact__input"
+          required
+        />
+        <input
+          type="email"
+          placeholder="Email"
+          id="email"
+          name="email"
+          class="contact__input"
+          required
         />
         <textarea
           id="message"
@@ -239,6 +248,7 @@
           name="message"
           placeholder="Message"
           rows="4"
+          required
         ></textarea>
         <button class="contact__button" type="submit">Send Message</button>
       </form>
@@ -264,3 +274,4 @@
     </script>
   </body>
 </html>
+
