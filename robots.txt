@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://janakkandel.com.np/sitemap.xml
